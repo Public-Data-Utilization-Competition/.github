@@ -3,7 +3,8 @@
 
 ### Overview
 2024년 국민체육진흥공단 공공데이터 활용 경진대회
-![image4](https://github.com/user-attachments/assets/64837c55-74fc-48ef-bb75-86d8814cbea9)
+
+<img src = "https://github.com/user-attachments/assets/64837c55-74fc-48ef-bb75-86d8814cbea9" width="400" height="400"/>
 
 
 ## 📋 목차
