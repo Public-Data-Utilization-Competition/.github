@@ -17,3 +17,10 @@
 | :------: | :------: | :------:  | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/71820763?v=4" height=100 width=100> <br/> @dong99u](https://github.com/dong99u) | [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="https://avatars.githubusercontent.com/u/95401144?v=4" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) | [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @TaegyunB](https://github.com/TaegyunB) |
 | Back-end | Front-end | Front-end / UI | Back-end |
+
+
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
+### ✔️Back-end
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
