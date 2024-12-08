@@ -13,15 +13,16 @@
 3. [Introduction](#introduction)  
 4. [Team Members](#team-members)  
 5. [기술 스택](#-기술-스택)  
-6. [기능](#-기능)  
-7. [프로젝트 구조](#-프로젝트-구조)  
+6. [기능](#-기능)
+7. [UI](#-UI)
+8. [프로젝트 구조](#-프로젝트-구조)  
     - [FrontEnd 구조](#frontend-구조)  
     - [BackEnd 구조](#backend-구조)  
-8. [BackEnd 세부 기술 스택](#backend-세부-기술-스택)  
-9. [API 문서](#-api-문서)  
-10. [설치 및 실행 방법](#-설치-및-실행-방법)  
-11. [Contributing](#-contributing)  
-12. [License](#-license) 
+9. [BackEnd 세부 기술 스택](#backend-세부-기술-스택)  
+10. [API 문서](#-api-문서)  
+11. [설치 및 실행 방법](#-설치-및-실행-방법)  
+12. [Contributing](#-contributing)  
+13. [License](#-license) 
 
 ### Development Period
 2024.11.19 ~ 2024.12.08
@@ -68,7 +69,7 @@
 - **실시간 프로그램 정보 업데이트**:  
   - 최신 프로그램 정보를 실시간으로 반영하여 정확한 정보를 제공합니다.  
 
-
+## 💻 UI
 
 ## 📂 프로젝트 구조
 
